@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=FF7F00&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=FF7F00&height=150&section=header" />
+
+<div align=center>
 
 # Welcome to my Github 😎
 
@@ -21,6 +23,8 @@
 ![](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se0kcess)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **se0kcess/se0kcess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
