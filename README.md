@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=FF7F00&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=header&text=se0kcess👽&fontSize=60&animation=scaleIn)
 
 <div align=center>
-
-# Welcome to my Github 😎
 
 ## Blog 🗒️
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=se0kcess)](https://velog.io/@se0kcess/posts)
@@ -40,4 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=FF7F00&height=150&section=footer" />
+
+![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=footer)
