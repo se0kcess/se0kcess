@@ -2,10 +2,10 @@
 
 <div align=center>
 
-## Blog 🗒️
+## Blog 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=se0kcess)](https://velog.io/@se0kcess/posts)
 
-## Skills what I'm learning 📝
+## Skills what I'm learning 📚
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
