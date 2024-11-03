@@ -3,7 +3,7 @@
 <div align=center>
 
 ## Blog 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=se0kcess)](https://velog.io/@se0kcess/posts)
+[![se0kcess's Velog](https://velog-readme-stats.vercel.app/api?name=se0kcess)](https://velog.io/@se0kcess/posts)
 
 ## Skills what I'm learning 📚
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
