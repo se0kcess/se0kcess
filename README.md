@@ -5,7 +5,7 @@
 ## Blog 📝
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=se0kcess)](https://velog.io/@se0kcess)
 
-## Skills what I'm learning 📚
+## Skills I'm learning 📚
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
